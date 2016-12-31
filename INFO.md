@@ -1,12 +1,13 @@
+### Verzeichnisse und Dateien
 Verzeichnisse
-/bin/rmtrap			# Hauptprogramm
-/etc/rmtrap			# Dateien des Hauptprogramm
-/etc/rmtrap/trashcan		# Eigentlicher Papierkorb
+/bin/rmtrap|Hauptprogramm
+/etc/rmtrap|Dateien des Hauptprogramm
+/etc/rmtrap/trashcan|Eigentlicher Papierkorb
 
-Datei
-/etc/rmtrap/rmtrap.conf 	# conf halt
-/etc/update-motd.d/80-rmtrap	# motd-plugin
-/etc/rmtrap/modt		# Inhalt der motd
+Dateien
+/etc/rmtrap/rmtrap.conf|Konfigurationsdatei
+/etc/update-motd.d/80-rmtrap|motd-plugin
+/etc/rmtrap/modt|Inhalt der motd
 
 config-datei:
 
