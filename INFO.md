@@ -1,15 +1,11 @@
 ### Verzeichnisse und Dateien
 Verzeichnisse
+
 | Verzeichnis | Funktion |
 | --- | --- |
 | /bin/rmtrap | Hauptprogramm |
 | /etc/rmtrap | Dateien des Hauptprogramm |
 | /etc/rmtrap/trashcan | Eigentlicher Papierkorb |
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
 
 Dateien
 Datei | Funktion
