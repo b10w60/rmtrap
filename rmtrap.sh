@@ -2,8 +2,6 @@
 
 #             R M T R A P
 # ================================
-build=1000
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 # Vars (liegen später alle in der .config)
