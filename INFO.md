@@ -1,10 +1,10 @@
 ### Verzeichnisse und Dateien
 Verzeichnisse
-Verzeichnis | Funktion
------------- | -------------
-/bin/rmtrap | Hauptprogramm
-/etc/rmtrap | Dateien des Hauptprogramm
-/etc/rmtrap/trashcan | Eigentlicher Papierkorb
+| Verzeichnis | Funktion |
+| --- | --- |
+| /bin/rmtrap | Hauptprogramm |
+| /etc/rmtrap | Dateien des Hauptprogramm |
+| /etc/rmtrap/trashcan | Eigentlicher Papierkorb |
 
 | Command | Description |
 | --- | --- |
