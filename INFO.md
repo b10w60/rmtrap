@@ -25,4 +25,6 @@ Dateien
 
 #### Todo:
 - [ ] cronjob hinzufügen
-`* *	* * *	root	/bin/rmtrap -rmtrapcron > /dev/null >2&1`
+````
+* *	* * *	root	/bin/rmtrap -rmtrapcron > /dev/null >2&1
+````
